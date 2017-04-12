@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaiduYuYin</string>
+    <string name="content">输入内容</string>
+    <string name="read">阅读</string>
+    <string name="pause">暂停</string>
+    <string name="resume">继续</string>
+    <string name="stop">停止</string>
+    <string name="start">开始</string>
+</resources>
